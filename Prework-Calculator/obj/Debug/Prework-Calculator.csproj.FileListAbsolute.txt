@@ -1,0 +1,6 @@
+C:\Users\leolu\Source\Repos\Prework-Calculator\Prework-Calculator\bin\Debug\Prework-Calculator.exe.config
+C:\Users\leolu\Source\Repos\Prework-Calculator\Prework-Calculator\bin\Debug\Prework-Calculator.exe
+C:\Users\leolu\Source\Repos\Prework-Calculator\Prework-Calculator\bin\Debug\Prework-Calculator.pdb
+C:\Users\leolu\Source\Repos\Prework-Calculator\Prework-Calculator\obj\Debug\Prework-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\leolu\Source\Repos\Prework-Calculator\Prework-Calculator\obj\Debug\Prework-Calculator.exe
+C:\Users\leolu\Source\Repos\Prework-Calculator\Prework-Calculator\obj\Debug\Prework-Calculator.pdb
