@@ -6,7 +6,7 @@
 ## Subtraction Method Result
 ![Subtract](assets/subtract.png)
 
-## Multipilication Method Result
+## Multiplication Method Result
 ![Multiply](assets/multiply.png)
 
 ## Division Method Result
